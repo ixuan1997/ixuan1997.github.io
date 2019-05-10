@@ -1,0 +1,237 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="http://www.i_xuan.github.io" resolutions="1x,2x" timestamp="1557468980735">
+  <folder name="css">
+    <file name="site_global.css" crc="4062966935"/>
+    <file name="master_a-master.css" crc="4050297070" ref="about-me:graphics:contact:work"/>
+    <file name="nomq_preview_master_a-master.css" crc="163041768" ref="about-me:graphics:contact:work"/>
+    <file name="master_b-master.css" crc="393710743" ref="index"/>
+    <file name="nomq_preview_master_b-master.css" crc="4086292661" ref="index"/>
+    <file name="index.css" crc="58545759" ref="index"/>
+    <file name="nomq_index.css" crc="4110317582" ref="index"/>
+    <file name="about-me.css" crc="3802411468" ref="about-me"/>
+    <file name="nomq_about-me.css" crc="300530555" ref="about-me"/>
+    <file name="graphics.css" crc="141321388" ref="graphics"/>
+    <file name="nomq_graphics.css" crc="4062123945" ref="graphics"/>
+    <file name="contact.css" crc="107398914" ref="contact"/>
+    <file name="nomq_contact.css" crc="4292049947" ref="contact"/>
+    <file name="work.css" crc="501132767" ref="work"/>
+    <file name="nomq_work.css" crc="65109494" ref="work"/>
+  </folder>
+  <folder name="assets">
+    <file name="unnamed.mp4" crc="4126235169" seo="true" mt="1557340155000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact:about-me:work:graphics"/>
+    <file name="museutils.js" crc="4216313831" ref="index:contact:about-me:work:graphics"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact:about-me:work:graphics"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:contact:about-me:work:graphics"/>
+    <file name="jquery.musemenu.js" crc="493622299" ref="index:contact:about-me:work:graphics"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:contact:about-me:work:graphics"/>
+    <file name="webpro.js" crc="4143865194" ref="index:contact:about-me:work:graphics"/>
+    <file name="musewpdisclosure.js" crc="4050941203" ref="index:contact:about-me:work:graphics"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact:about-me:work:graphics"/>
+    <file name="jquery.museresponsive.js" crc="4055310269" ref="index:contact:about-me:work:graphics"/>
+    <file name="require.js" crc="3951022091" ref="index:contact:about-me:work:graphics"/>
+    <file name="musewpslideshow.js" crc="3781122836" ref="work:graphics"/>
+    <file name="jquery.museoverlay.js" crc="4030747646" ref="work:graphics"/>
+    <file name="touchswipe.js" crc="4200445185" ref="work:graphics"/>
+  </folder>
+  <folder name="images">
+    <file name="u6597-4.png" crc="405942938" ref="index"/>
+    <file name="u6597-4_2x.png" crc="4187908430" ref="index"/>
+    <file name="u6603-4.png" crc="3939923851" ref="index"/>
+    <file name="u6603-4_2x.png" crc="4164952351" ref="index"/>
+    <file name="u6590-4.png" crc="116470875" ref="index"/>
+    <file name="u6590-4_2x.png" crc="3871995759" ref="index"/>
+    <file name="u6070-4.png" crc="7632431" ref="index"/>
+    <file name="u6070-4_2x.png" crc="123473601" ref="index"/>
+    <file name="u6074-4.png" crc="3911955730" ref="index"/>
+    <file name="u6074-4_2x.png" crc="3939181789" ref="index"/>
+    <file name="logo(web)_工作區域 1.png" crc="216020297" seo="true" ref="index:contact:about-me:work:graphics">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="logo(web)_工作區域 1_2x.png" crc="4068832568" seo="true" ref="index:contact:about-me:work:graphics">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u6070-42.png" crc="290333980" ref="index"/>
+    <file name="u6070-4_2x2.png" crc="4202619491" ref="index"/>
+    <file name="u6074-42.png" crc="4256135303" ref="index"/>
+    <file name="u6074-4_2x2.png" crc="4054148150" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:contact:about-me:work:graphics"/>
+    <file name="u6563.png" crc="4193778173" ref="index"/>
+    <file name="u6563_2x.png" crc="4152784726" ref="index"/>
+    <file name="u6563-a.png" crc="4193778173" ref="index"/>
+    <file name="u6563-a_2x.png" crc="4152784726" ref="index"/>
+    <file name="u6571.png" crc="335844367" ref="index"/>
+    <file name="u6571_2x.png" crc="3848527671" ref="index"/>
+    <file name="u6571-a.png" crc="335844367" ref="index"/>
+    <file name="u6571-a_2x.png" crc="3848527671" ref="index"/>
+    <file name="u6574.png" crc="3856206239" ref="index"/>
+    <file name="u6574_2x.png" crc="3856624406" ref="index"/>
+    <file name="u6574-a.png" crc="3856206239" ref="index"/>
+    <file name="u6574-a_2x.png" crc="3856624406" ref="index"/>
+    <file name="u6070-43.png" crc="60678212" ref="index"/>
+    <file name="u6070-4_2x3.png" crc="77204842" ref="index"/>
+    <file name="u6074-43.png" crc="343914812" ref="index"/>
+    <file name="u6074-4_2x3.png" crc="3850600352" ref="index"/>
+    <file name="u280-4.png" crc="405942938" ref="contact:about-me:work:graphics"/>
+    <file name="u280-4_2x.png" crc="4187908430" ref="contact:about-me:work:graphics"/>
+    <file name="u556-4.png" crc="3939923851" ref="contact:about-me:work:graphics"/>
+    <file name="u556-4_2x.png" crc="4164952351" ref="contact:about-me:work:graphics"/>
+    <file name="u595-4.png" crc="116470875" ref="contact:about-me:work:graphics"/>
+    <file name="u595-4_2x.png" crc="3871995759" ref="contact:about-me:work:graphics"/>
+    <file name="pasted-svg-52632x137.svg" crc="83976544" seo="true" ref="contact:about-me:work:graphics">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="about-me" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="pasted svg 52632x137_poster_.png" crc="85367359" ref="contact"/>
+    <file name="u2852-4.png" crc="3789368889" ref="contact:about-me:work:graphics"/>
+    <file name="u2852-4_2x.png" crc="314108214" ref="contact:about-me:work:graphics"/>
+    <file name="u2857-4.png" crc="309076169" ref="contact:about-me:work:graphics"/>
+    <file name="u2857-4_2x.png" crc="126340274" ref="contact:about-me:work:graphics"/>
+    <file name="u2141.png" crc="4193778173" ref="contact:about-me:work:graphics"/>
+    <file name="u2141_2x.png" crc="4152784726" ref="contact:about-me:work:graphics"/>
+    <file name="u2141-a.png" crc="4193778173" ref="contact:about-me:work:graphics"/>
+    <file name="u2141-a_2x.png" crc="4152784726" ref="contact:about-me:work:graphics"/>
+    <file name="u2211.png" crc="335844367" ref="contact:about-me:work:graphics"/>
+    <file name="u2211_2x.png" crc="3848527671" ref="contact:about-me:work:graphics"/>
+    <file name="u2211-a.png" crc="335844367" ref="contact:about-me:work:graphics"/>
+    <file name="u2211-a_2x.png" crc="3848527671" ref="contact:about-me:work:graphics"/>
+    <file name="u2267.png" crc="3856206239" ref="contact:about-me:work:graphics"/>
+    <file name="u2267_2x.png" crc="3856624406" ref="contact:about-me:work:graphics"/>
+    <file name="u2267-a.png" crc="3856206239" ref="contact:about-me:work:graphics"/>
+    <file name="u2267-a_2x.png" crc="3856624406" ref="contact:about-me:work:graphics"/>
+    <file name="資產 8.png" crc="469972302" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u15180-8.png" crc="312387800" ref="work"/>
+    <file name="u15180-8_2x.png" crc="3816966554" ref="work"/>
+    <file name="dscf4905.jpg" crc="4063297810" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="dscf4930.jpg" crc="291522092" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="work:graphics"/>
+    <file name="資產 10.png" crc="4022787204" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u14208-4.png" crc="3869593989" ref="work"/>
+    <file name="u14208-4_2x.png" crc="4042582916" ref="work"/>
+    <file name="heart.jpg" crc="152506701" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="heart_2x.jpg" crc="266143839" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 9.png" crc="3777626755" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 892x112.png" crc="263207662" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 1092x112.png" crc="242746468" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 992x112.png" crc="4032902272" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u14208-42.png" crc="4024033688" ref="work"/>
+    <file name="u14208-4_2x2.png" crc="3885856067" ref="work"/>
+    <file name="u15180-82.png" crc="3964668964" ref="work"/>
+    <file name="u15180-8_2x2.png" crc="4034050159" ref="work"/>
+    <file name="heart71x71.jpg" crc="471448809" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="heart71x71_2x.jpg" crc="3871805364" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 862x75.png" crc="4136956147" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 1062x75.png" crc="358059964" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="資產 962x75.png" crc="3924051970" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="u14208-43.png" crc="284484645" ref="work"/>
+    <file name="u14208-4_2x3.png" crc="3844659592" ref="work"/>
+    <file name="u15180-83.png" crc="4109416454" ref="work"/>
+    <file name="u15180-8_2x3.png" crc="31271250" ref="work"/>
+    <file name="heart47x47.jpg" crc="3832377093" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="heart47x47_2x.jpg" crc="4036225095" seo="true" ref="work">
+      <caption webpage="work" alt=""/>
+    </file>
+    <file name="61st_visual_工作區域 1.jpg" crc="511452326" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="61st_visual_工作區域 1_2x.jpg" crc="4225752241" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="人類bg.jpg" crc="3827602313" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="人類bg_2x.jpg" crc="4089927832" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="font_工作區域 1.jpg" crc="496272616" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+    <file name="font_工作區域 1_2x.jpg" crc="3994998801" seo="true" ref="graphics">
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+      <caption webpage="graphics" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4016802485" seo="true" mt="1557433210626" redirect="true"/>
+  <file name="contact.html" crc="3934394316" seo="true" mt="1557435357596" redirect="true"/>
+  <file name="about-me.html" crc="4120311656" seo="true" mt="1557435317846" redirect="true"/>
+  <file name="work.html" crc="439483752" seo="true" mt="1557433380032" redirect="true"/>
+  <file name="graphics.html" crc="4092660837" seo="true" mt="1557435871352" redirect="true"/>
+</manifest>
